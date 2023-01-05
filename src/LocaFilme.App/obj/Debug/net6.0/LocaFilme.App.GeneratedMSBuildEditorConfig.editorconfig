@@ -1,0 +1,116 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LocaFilme.App
+build_property.RootNamespace = LocaFilme.App
+build_property.ProjectDir = A:\Programacao\ProjetoTeste\AppLocaFilme\src\LocaFilme.App\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = A:\Programacao\ProjetoTeste\AppLocaFilme\src\LocaFilme.App
+build_property._RazorSourceGeneratorDebug = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Filmes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Filmes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Filmes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Filmes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Filmes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Filmes/_ListaFilmes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXF9MaXN0YUZpbG1lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Locacoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Locacoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Locacoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Locacoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Locacoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Locacoes/_AtualizarCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNvZXNcX0F0dWFsaXphckNsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Locacoes/_Cliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNvZXNcX0NsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Locacoes/_DetalhesCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNvZXNcX0RldGFsaGVzQ2xpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Shared/Components/Summary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/ProjetoTeste/AppLocaFilme/src/LocaFilme.App/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ic3s2glgk5
